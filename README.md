@@ -1,2 +1,2 @@
-# al_random_card
-Pick a random card from a deck :)
+# About
+Minimal random card generator focused on a value and a suit...**just that** :)
